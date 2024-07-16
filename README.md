@@ -69,43 +69,69 @@ https://cosfac.sems.gob.mx/Programas_presenciales/2023/PROGRAMA%20DE%20ESTUDIOS%
 Entornos de Desarrollo Integrados (IDEs)
 
 1.
+
 JetBrains IntelliJ IDEA
+
 Visual Studio Code
+
 Eclipse IDE
+
 Sistemas de Control de Versiones
 
 2.
+
 Git Official Documentation
+
 Pro Git Book
+
 GitHub Guides
+
 Colaboración en Línea
 
 3.
+
 GitHub
+
 GitLab
+
 Bitbucket
 
 4.
+
 Markdown Guide
+
 Read the Docs
+
 Docusaurus
+
 Automatización de Tareas
 
 5.
+
 Continuous Integration with Jenkins
+
 GitHub Actions
+
 Travis CI Documentation
+
 Gestión de Proyectos de Software
 
 6.
+
 Jira Software
+
 Trello
+
 Asana
+
 Seguridad y Control de Calidad
 
 7.
+
 OWASP
+
 Snyk
+
 SonarQube
 
 
